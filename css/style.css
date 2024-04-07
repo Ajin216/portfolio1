@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("./images/coding.webp") top center;
+  background: url("/coding.webp") top center;
   background-size: cover;
 }
 
